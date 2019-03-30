@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="si_default_text_color">#FF0000</color>
+    <color name="si_default_text_color_selected">#FF00FF</color>
+    <color name="si_default_indicator_bg">#ee9999</color>
+    <color name="black">#000000</color>
+    <color name="color_text_main_bottom">#999999</color>
+    <color name="color_line_main_bottom">#aaaaaa</color>
+    <color name="color_text_selected_main_bottom">#2fb9c3</color>
+    <color name="indicator_1">#f4bc42</color>
+    <color name="indicator_2">#62f441</color>
+    <color name="indicator_3">#41e2f4</color>
+    <color name="indicator_4">#ac41f4</color>
+</resources>
